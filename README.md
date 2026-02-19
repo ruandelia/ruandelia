@@ -43,3 +43,29 @@ Atualmente, estou migrando minha stack para o ecossistema moderno de **JavaScrip
 #### 🏛️ Minha Base Sólida (Core)
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+</div>
+
+#### ⚙️ Ferramentas & DevOps
+<div style="display: inline_block"><br>
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/ruandelia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruandelia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruandelia&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
+
+---
